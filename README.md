@@ -1,5 +1,5 @@
 # ENEL 645 - Data Mining & Machine Learning
-Assignment 1
+### Assignment 1
 
 The task in this assignment is to apply a linear regression model to the "Community Crime and Disorder Statistics" dataset, sourced from Open Calgary.
 
