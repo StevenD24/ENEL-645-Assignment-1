@@ -9,3 +9,8 @@ The dataset was split into a training set (70% of the data) and a test set (30% 
 The 'Community name' was considered as the index column of the dataset. Categorical variables were converted into dummy/indicator variables using pandas' get_dummies() function. Feature engineering was also applied to achieve better results.
 
 The Python code for this assignment is provided in both .py and .ipynb formats. A descriptive report about the algorithm, methodology, and results is also included in this repository.
+
+## Folder Structure 
+<!-- - [A1 Instructions](https://github.com/StevenD24/ENSF-614-Lab-6/blob/main/ENSF%20614%20-%20Lab%206.pdf)    -->
+- [A1 Report](https://github.com/StevenD24/ENEL-645-Assignment-1/blob/main/ENEL%20645%20-%20Assignment%201%20Report.pdf)  
+- [A1 Notebook](https://github.com/StevenD24/ENEL-645-Assignment-1/blob/main/A1_Linear_Regression.ipynb) 
